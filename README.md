@@ -74,12 +74,13 @@ Dynamic Programming
 |  https://vjudge.net/contest/461619 | 456 |
 
 ## ```Class 1```
-- https://github.com/Sadman007/SynapseTrainingResourses/tree/master/Training/Advanced%20Regular%20Season%202/class_01
 - range sum query 
 - prefix sum
 - point update
 - sparse table
-- sqrt decomposition - [shafayets](http://www.shafaetsplanet.com/?p=3416), [cpalgo](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
+- sqrt decomposition 
+- [shafayets blog - sqrt decompo](http://www.shafaetsplanet.com/?p=3416)
+- [cpalgo - sqrt decompo](https://cp-algorithms.com/data_structures/sqrt_decomposition.html)
 - [Square root decomposition and applications](https://codeforces.com/blog/entry/83248)
 - segment tree - [link1](http://www.shafaetsplanet.com/?p=1557), [link2](http://www.shafaetsplanet.com/?p=1591)
 - BIT - [link1](http://www.shafaetsplanet.com/?p=1961)
@@ -89,11 +90,9 @@ Dynamic Programming
 
 ## ```Class 2```
 - Fenwick tree/Binary Indexed Tree
-- https://github.com/Sadman007/SynapseTrainingResourses/tree/master/Training/Advanced%20Regular%20Season%202/class_02 
 - https://cp-algorithms.com/data_structures/fenwick.html
 
 ## ```Class 3```
-- https://github.com/Sadman007/SynapseTrainingResourses/tree/master/Training/Advanced%20Regular%20Season%202/class_03
 - Sparse Table 
 - LCA 
 - RMQ in O(1) for static data
@@ -104,7 +103,6 @@ Dynamic Programming
 - Closest points/Furthest points using line sweeping technique.
 
 ## ```Class 6```
-- https://github.com/Sadman007/SynapseTrainingResourses/tree/master/Training/Advanced%20Regular%20Season%202/class_06
 - https://codeforces.com/blog/entry/60445
 
 ## ```Class 8```
@@ -119,8 +117,6 @@ Dynamic Programming
 
 ### ```Notes```
 - [math1.pdf](https://github.com/Problem-Solving-Practice/SynapseTrainingResourses/files/8162383/math1.pdf)
-- https://pastebin.com/zUgCcfWx
-- https://pastebin.com/nvq3sKvW
 
 ## ```Class 9```
 
@@ -138,7 +134,6 @@ Dynamic Programming
 
 ### ``Notes:``
 - https://drive.google.com/file/d/1W-pQoEc8lfJp96UILK50U7BlPrm_TtgO/view?usp=sharing
-- https://pastebin.com/k9n42LNn
 
 ## ```Class 10```
 
@@ -155,8 +150,6 @@ Dynamic Programming
 
 ### ```Notes```
 - [graph-1-synapse.pdf](https://github.com/Problem-Solving-Practice/SynapseTrainingResourses/files/8162307/graph-1-synapse.pdf)
-- http://www.shafaetsplanet.com/?p=1927
-- http://www.shafaetsplanet.com/?p=1500
 
 ## ```Class 11```
 
@@ -174,8 +167,6 @@ Dynamic Programming
 
 ### ```Notes```
 - [graph-2-synapse-advanced.pdf](https://github.com/Problem-Solving-Practice/SynapseTrainingResourses/files/8162292/graph-2-synapse-advanced.pdf)
-- http://www.shafaetsplanet.com/?p=2504
-- http://www.shafaetsplanet.com/?p=763
 
 ## ```Class 12```
 
@@ -190,10 +181,6 @@ Dynamic Programming
 
 ### ```Notes```
 - [dp-1-synapse-advance.pdf](https://github.com/Problem-Solving-Practice/SynapseTrainingResourses/files/8162024/dp-1-synapse-advance.pdf)
-- http://www.shafaetsplanet.com/?p=3721
-- https://pastebin.com/E7tR8bRV
-- https://pastebin.com/J9vrRTYc
-- https://pastebin.com/r2973nn8
 
 ## ```Class 13```
 
@@ -207,10 +194,6 @@ Dynamic Programming
 
 ### ```Notes```
 - [dp-2-synapse-advance.pdf](https://github.com/Problem-Solving-Practice/SynapseTrainingResourses/files/8161997/dp-2-synapse-advance.pdf)
-- https://codeforces.com/blog/entry/53960
-- https://www.geeksforgeeks.org/digit-dp-introduction/
-- http://shakilcompetitiveprogramming.blogspot.com/2015/09/digit-dp.html
-- https://pastebin.com/dn5iyD29
 
 ## ```Class 14```
 
@@ -224,11 +207,6 @@ Dynamic Programming
 
 ### ```Notes:```
 - [dp-3-synapse-advance.pdf](https://github.com/Problem-Solving-Practice/SynapseTrainingResourses/files/8161916/dp-3-synapse-advance.pdf)
-- https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/
-- https://www.geeksforgeeks.org/vertex-cover-problem-set-2-dynamic-programming-solution-tree/
-- https://codeforces.com/blog/entry/20935
-- https://codeforces.com/blog/entry/79857
-- https://www.commonlounge.com/discussion/8573ee40c4cb4673824c867715a5bc7b
 
 ## ```Class 15```
 
@@ -241,9 +219,6 @@ Dynamic Programming
 
 ### ```Notes:```
 - [game-theory-synapse-advanced.pdf](https://github.com/Problem-Solving-Practice/SynapseTrainingResourses/files/8161954/game-theory-synapse-advanced.pdf)
-- http://www.shafaetsplanet.com/?p=2325
-- http://www.shafaetsplanet.com/?p=2608
-- http://www.shafaetsplanet.com/?p=2714
 
 ## ```other resources```
 - [Euler Tour on a Tree ](https://www.youtube.com/watch?v=P8NHOmX5XGM)
